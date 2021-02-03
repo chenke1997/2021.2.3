@@ -1,3 +1,4 @@
 learn git add and commit
 git diff
 diff HEAD
+checkout
